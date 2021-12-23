@@ -6,6 +6,7 @@ Approachable is better than simple
 Mind your words, they are important
 Speak like a human
 Half measures are as bad as nothing at all
+late is better than never
 Encourage flow
 Non-blocking is better than blocking
 Favor focus over features
